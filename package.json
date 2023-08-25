@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "estud":  "nodemon ./desafios/1672.js"
+    "start":  "nodemon ./desafios/383.js",
+    "dev":  "nodemon ./typescript/383.ts"
   },
   "keywords": [],
   "author": "",
