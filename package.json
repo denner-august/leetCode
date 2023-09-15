@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "estud": "nodemon ./desafios/412.js",
-    "atualizar": "nodemon ./typescript/412.ts pnpm tsc"
+    "estud": "nodemon ./desafios/MaxConsecutiveOnes.js",
+    "atualizar": "nodemon ./typescript/MaxConsecutiveOnes.ts pnpm tsc"
   },
   "keywords": [],
   "author": "",
