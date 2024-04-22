@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "estudar": "nodemon ./desafios/findNumbers.js",
-    "pratica": "nodemon ./typescript/single_number.ts pnpm tsc"
+    "pratica": "nodemon ./typescript/valid_mountain_array.ts pnpm tsc"
   },
   "keywords": [],
   "author": "",
