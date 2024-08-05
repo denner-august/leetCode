@@ -4,16 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pratica": "nodemon ./typescript/valid_mountain_array.ts pnpm tsc"
+    "pratica": "nodemon ./typescript/Move_Zeroes.ts pnpm tsc"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "nodemon": "^3.1.0"
+    "nodemon": "^3.1.4"
   },
   "devDependencies": {
     "ts-node": "^10.9.2",
-    "typescript": "^5.4.3"
+    "typescript": "^5.5.4"
   }
 }
