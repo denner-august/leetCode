@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pratica": "nodemon ./typescript/Move_Zeroes.ts pnpm tsc"
+    "pratica": "nodemon ./typescript/Remove_Element.ts pnpm tsc"
   },
   "keywords": [],
   "author": "",
